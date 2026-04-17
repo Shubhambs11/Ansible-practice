@@ -2,4 +2,4 @@
 terraform/terra-automate-key
 terraform/terra-automate-key.pub
 terraform/terraform.tfstate
-.terraform/
+.terraform/*
